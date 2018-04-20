@@ -5,8 +5,9 @@ My personal [AutoHotKey](https://autohotkey.com) script that I use to enhance pr
 ## Usage
 
 1.  [Download](https://github.com/liorsh69/AllHotKeys/archive/master.zip) and extract the zip to any folder
-2.  Edit settings.json to your own paths
-3.  Run AllHotKeys.ahk
+2.  Download [NirCmd](https://www.nirsoft.net/utils/nircmd.zip) and extract to exe\nircmd\ (NirCmd.chm is already there)
+3.  Edit settings.json to your own paths
+4.  Run AllHotKeys.ahk
 
 *   Use Ctrl+Shift+Mouse button 4(back) to toggle AppMod Modifier
 *   Use CapsLock to toggle F13-F24 with the normal F keys (F1=F13 ... F12=F24)
@@ -82,3 +83,4 @@ This script is using AHK script dependencies that saved me a lot of time <br/>
 
 *   [AHKHID](https://github.com/jleb/AHKHID) - AHK implementation of the HID functions
 *   [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - JSON module for AutoHotkey
+*   [NirCmd](https://www.nirsoft.net/utils/nircmd.html) - Windows command line tool

@@ -1,0 +1,15 @@
+{
+	"#exe": "change process paths or add more here",
+	"exe": {
+		"videoExplorer": "C:\\Path\\To\\VideoExplorer 0.0.1.exe",
+		"explorer": "explorer.exe",
+		"chrome": "chrome.exe",
+		"code": "C:\\Path\\To\\Microsoft VS Code\\Code.exe",
+		"premierePro":
+			"C:\\Path\\To\\Adobe Premiere Pro CC 2018\\Adobe Premiere Pro.exe",
+		"nircmd": "exe\\nircmd\\nircmd.exe"
+	},
+
+	"#audioSources": "change to audio output devices names",
+	"audioSources": ["Speakers", "TOSHIBA-TV"]
+}

@@ -1,1 +1,3 @@
 privateSettings.json
+!exe/nircmd/nircmd.exe
+!exe/nircmd/nircmdc.exe

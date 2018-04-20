@@ -4,12 +4,12 @@ My personal [AutoHotKey](https://autohotkey.com) script that I use to enhance pr
 
 ## Usage
 
-1.  [Download](https://github.com/liorsh69/AllHotKeys/archive/master.zip) and extract the zip to any folder
-2.  Download [NirCmd](https://www.nirsoft.net/utils/nircmd.zip) and extract to exe\nircmd\ (NirCmd.chm is already there)
+1.  Download and install [AutoHotKey](https://autohotkey.com)
+2.  [Download](https://github.com/liorsh69/AllHotKeys/archive/master.zip) and extract the zip to any folder
 3.  Edit settings.json to your own paths
 4.  Run AllHotKeys.ahk
 
-*   Use Ctrl+Shift+Mouse button 4(back) to toggle AppMod Modifier
+*   Use Ctrl+Shift+Mouse button 4(back) to toggle AppMod Modifier(taskbar icon will change as well)
 *   Use CapsLock to toggle F13-F24 with the normal F keys (F1=F13 ... F12=F24)
 
 ### Run At Startup (optional)
@@ -67,6 +67,7 @@ When contributing to this repository, please **first discuss** the change you wi
 *   Make sure to test as you write to prevent any errors
 *   **always** Push to dev branch
 *   If approved - the changes are going to get tested using dev branch
+*   Create & use privateSettings.json for your own settings
 
 ## TODO:
 
